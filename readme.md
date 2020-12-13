@@ -11,9 +11,9 @@ Inspired by [gatsby-remark-embed-youtube](https://github.com/ntwcklng/gatsby-rem
 1.  Install plugin to your site:
 
 ```bash
-npm i gatsby-remark-embed-video
+npm i @joyfulelement/gatsby-remark-embed-video
 
-yarn add gatsby-remark-embed-video
+yarn add @joyfulelement/gatsby-remark-embed-video
 ```
 
 2.  Add following to your `gatsby-config.js`:

@@ -4,7 +4,7 @@
   "description": "Embed Videos (Youtube, Vimeo, VideoPress) in Gatsby via Markdown",
   "main": "index.js",
   "types": "dist/index.d.ts",
-  "author": "Neal Bürger <info@nealbuerger.com>",
+  "author": "Kevin C Chen base off from Neal Bürger <info@nealbuerger.com>'s work",
   "license": "MIT",
   "keywords": [
     "gatsby",
@@ -38,7 +38,7 @@
   "homepage": "https://github.com/borgfriend/gatsby-remark-embed-video#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/borgfriend/gatsby-remark-embed-video.git"
+    "url": "git+https://github.com/joyfulelement/gatsby-remark-embed-video.git"
   },
   "config": {
     "commitizen": {
